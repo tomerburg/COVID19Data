@@ -1,0 +1,187 @@
+State,Total Cases,New Cases,Total Deaths,New Deaths,Total Recovered,Active Cases
+China,80967,0,3248,0,71150,6569
+Italy,47021,5986,4032,627,5129,37860
+Spain,21510,3433,1093,262,1588,18829
+Germany,19848,4528,68,24,180,19600
+Iran,19644,1237,1433,149,6745,11466
+USA,19387,5598,256,49,147,18984
+France,12612,1617,450,78,1587,10575
+S. Korea,8652,87,94,3,2233,6325
+Switzerland,5407,1185,56,13,15,5336
+UK,3983,714,177,33,65,3741
+Netherlands,2994,534,106,30,2,2886
+Austria,2649,470,6,0,9,2634
+Belgium,2257,462,37,16,204,2016
+Norway,1952,162,7,0,1,1944
+Sweden,1639,200,16,5,16,1607
+Denmark,1255,104,9,3,1,1245
+Canada,1077,204,12,0,14,1051
+Malaysia,1030,130,3,1,87,940
+Portugal,1020,234,6,2,5,1009
+Brazil,970,330,11,4,2,957
+Japan,963,20,33,0,215,715
+Australia,877,121,7,0,46,824
+Czechia,833,139,0,0,4,829
+Diamond Princess,712,0,8,1,527,177
+Israel,705,28,1,1,15,689
+Ireland,683,126,3,0,5,675
+Turkey,670,311,9,5,0,661
+Pakistan,501,47,3,1,13,485
+Greece,495,31,10,4,19,466
+Luxembourg,484,149,5,1,6,473
+Qatar,470,10,0,0,10,460
+Finland,450,50,0,0,10,440
+Chile,434,92,0,0,6,428
+Ecuador,426,166,7,4,3,416
+Poland,425,70,5,0,13,407
+Iceland,409,79,0,0,5,404
+Singapore,385,40,0,0,131,254
+Indonesia,369,60,32,7,17,320
+Saudi Arabia,344,70,0,0,8,336
+Slovenia,341,22,1,0,0,340
+Thailand,322,50,1,0,42,279
+Romania,308,31,0,0,31,277
+Bahrain,298,19,1,0,125,172
+Egypt,285,29,8,1,42,235
+Estonia,283,16,0,0,1,282
+Peru,263,29,4,3,1,258
+Hong Kong,256,48,4,0,98,154
+Russia,253,54,1,0,12,240
+India,249,55,5,1,23,221
+Philippines,230,13,18,1,8,204
+Iraq,208,16,17,4,49,142
+South Africa,202,52,0,0,0,202
+Panama,200,63,1,0,1,198
+Lebanon,177,20,4,0,4,169
+Mexico,164,46,1,0,4,159
+Kuwait,159,11,0,0,22,137
+Argentina,158,30,3,0,3,152
+Colombia,145,37,0,0,1,144
+San Marino,144,0,14,0,4,126
+UAE,140,0,2,2,31,107
+Slovakia,137,13,0,0,0,137
+Armenia,136,14,0,0,1,135
+Taiwan,135,27,2,1,28,105
+Serbia,135,32,1,1,2,132
+Croatia,130,20,1,0,5,124
+Bulgaria,127,20,3,0,1,123
+Costa Rica,113,26,2,1,2,109
+Latvia,111,25,0,0,1,110
+Uruguay,110,31,0,0,0,110
+Algeria,94,4,11,2,32,51
+Vietnam,91,6,0,0,17,74
+Bosnia and Herzegovina,89,25,0,0,2,87
+Hungary,85,12,4,3,7,74
+Jordan,85,16,0,0,1,84
+Faeroe Islands,80,8,0,0,3,77
+Morocco,79,16,3,1,2,74
+Brunei,78,5,0,0,1,77
+North Macedonia,76,26,0,0,1,75
+Andorra,75,1,0,0,1,74
+Cyprus,75,8,0,0,0,75
+Sri Lanka,73,13,0,0,3,70
+Dominican Republic,72,38,2,0,0,70
+Albania,70,6,2,0,2,66
+Belarus,69,18,0,0,15,54
+Moldova,66,17,1,0,1,64
+Venezuela,65,23,0,0,1,64
+Malta,64,11,0,0,2,62
+Lithuania,63,15,0,0,1,62
+Tunisia,54,15,1,0,1,52
+New Zealand,53,25,0,0,0,53
+Kazakhstan,52,8,0,0,0,52
+Cambodia,51,14,0,0,1,50
+Oman,48,0,0,0,13,35
+Palestine,48,1,0,0,17,31
+Senegal,47,11,0,0,5,42
+Guadeloupe,45,12,0,0,0,45
+Azerbaijan,44,0,1,0,7,36
+Georgia,44,4,0,0,1,43
+Ukraine,41,15,3,0,1,37
+Burkina Faso,40,7,1,0,4,35
+Uzbekistan,33,10,0,0,0,33
+Martinique,32,9,1,0,0,31
+Liechtenstein,28,0,0,0,0,28
+Réunion,28,0,0,0,0,28
+Afghanistan,24,2,0,0,1,23
+Honduras,24,12,0,0,0,24
+Bangladesh,20,2,1,0,3,16
+Cameroon,20,7,0,0,2,18
+Jamaica,19,4,1,0,2,16
+DRC,18,4,0,0,0,18
+Paraguay,18,5,0,0,0,18
+Macao,17,0,0,0,10,7
+Rwanda,17,6,0,0,0,17
+Cuba,16,5,1,0,0,15
+Bolivia,16,1,0,0,0,16
+Ghana,16,5,0,0,0,16
+Guyana,15,10,1,0,0,14
+French Guiana,15,0,0,0,0,15
+Guam,14,2,0,0,0,14
+Montenegro,14,1,0,0,0,14
+Puerto Rico,14,8,0,0,0,14
+Maldives,13,0,0,0,2,11
+Guatemala,12,3,1,0,0,11
+Nigeria,12,0,0,0,1,11
+Channel Islands,12,1,0,0,0,12
+Mauritius,12,5,0,0,0,12
+Monaco,11,1,0,0,0,11
+French Polynesia,11,5,0,0,0,11
+Gibraltar,10,0,0,0,2,8
+Ivory Coast,9,0,0,0,1,8
+Ethiopia,9,2,0,0,0,9
+Togo,9,8,0,0,0,9
+Trinidad and Tobago,9,0,0,0,0,9
+Kenya,7,0,0,0,0,7
+Seychelles,7,1,0,0,0,7
+Barbados,6,1,0,0,0,6
+Equatorial Guinea,6,0,0,0,0,6
+Kyrgyzstan,6,3,0,0,0,6
+Mayotte,6,2,0,0,0,6
+Mongolia,6,0,0,0,0,6
+Tanzania,6,0,0,0,0,6
+Aruba,5,0,0,0,1,4
+Gabon,4,1,1,1,0,3
+Bahamas,4,1,0,0,0,4
+Saint Martin,4,1,0,0,0,4
+Suriname,4,3,0,0,0,4
+Cayman Islands,3,0,1,0,0,2
+Curaçao,3,0,1,0,0,2
+CAR,3,2,0,0,0,3
+Congo,3,0,0,0,0,3
+Madagascar,3,3,0,0,0,3
+Namibia,3,0,0,0,0,3
+St. Barth,3,0,0,0,0,3
+U.S. Virgin Islands,3,0,0,0,0,3
+Sudan,2,0,1,0,0,1
+Benin,2,0,0,0,0,2
+Bermuda,2,0,0,0,0,2
+Bhutan,2,1,0,0,0,2
+Greenland,2,0,0,0,0,2
+Guinea,2,1,0,0,0,2
+Haiti,2,2,0,0,0,2
+Isle of Man,2,1,0,0,0,2
+Liberia,2,0,0,0,0,2
+Mauritania,2,0,0,0,0,2
+New Caledonia,2,0,0,0,0,2
+Nicaragua,2,1,0,0,0,2
+Saint Lucia,2,0,0,0,0,2
+Zambia,2,0,0,0,0,2
+Nepal,1,0,0,0,1,0
+Angola,1,1,0,0,0,1
+Antigua and Barbuda,1,0,0,0,0,1
+Cabo Verde,1,1,0,0,0,1
+Chad,1,0,0,0,0,1
+Djibouti,1,0,0,0,0,1
+El Salvador,1,0,0,0,0,1
+Fiji,1,0,0,0,0,1
+Gambia,1,0,0,0,0,1
+Vatican City,1,0,0,0,0,1
+Montserrat,1,0,0,0,0,1
+Niger,1,0,0,0,0,1
+Papua New Guinea,1,1,0,0,0,1
+St. Vincent Grenadines,1,0,0,0,0,1
+Sint Maarten,1,0,0,0,0,1
+Somalia,1,0,0,0,0,1
+Eswatini,1,0,0,0,0,1
+Zimbabwe,1,1,0,0,0,1
